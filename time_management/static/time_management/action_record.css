@@ -1,0 +1,46 @@
+input {
+    font-size: x-large;
+}
+
+button {
+    font-size: x-large;
+}
+
+label {
+    font-size: x-large;
+}
+
+li {
+    font-size: xx-large;
+}
+
+.title {
+    font-size: xx-large;
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+
+.sub-title {
+    font-size: xx-large;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.error {
+    font-size: x-large;
+    color:red;
+}
+
+.add-form {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.delete-form {
+    display: inline;
+}
+
+.details {
+    font-size: large;
+    font-style: italic;
+}
