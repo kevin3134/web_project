@@ -14,3 +14,6 @@ db.sqlite3
 0*.py
 
 .DS_Store
+
+# VS temp data directory?
+localtest/Loglib/.vs
