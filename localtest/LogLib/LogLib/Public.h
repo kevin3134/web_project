@@ -14,6 +14,7 @@
 
 #include <TlHelp32.h>
 
-#include<fstream> 
+#include <fstream> 
+#include <string>
 
 //#include<iomanip>

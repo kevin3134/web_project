@@ -1,0 +1,449 @@
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  TaskInfo created
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Chrome_WidgetWin_1c++ base64_百度搜索 - Google Chromechrome.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:OrpheusBrowserHostEnergy Drink - Virtual Riotcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:ProgmanProgram Managerexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:CabinetWClassLogLibexplorer.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Notepaddata.txt - 记事本notepad.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Chrome_WidgetWin_1c++ base64_百度搜索 - Google Chromechrome.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:OrpheusBrowserHostSky (Radio Edit) - Steerner/Martellcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ProgmanProgram Managerexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Notepaddata.txt - 记事本notepad.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Chrome_WidgetWin_1c++ base64_百度搜索 - Google Chromechrome.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:OrpheusBrowserHostSky (Radio Edit) - Steerner/Martellcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ProgmanProgram Managerexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Chrome_WidgetWin_1c++ base64_百度搜索 - Google Chromechrome.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:OrpheusBrowserHostSky (Radio Edit) - Steerner/Martellcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ProgmanProgram Managerexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Chrome_WidgetWin_1c++ base64_百度搜索 - Google Chromechrome.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:OrpheusBrowserHostSky (Radio Edit) - Steerner/Martellcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ProgmanProgram Managerexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Chrome_WidgetWin_1c++ base64_百度搜索 - Google Chromechrome.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:OrpheusBrowserHostSky (Radio Edit) - Steerner/Martellcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ProgmanProgram Managerexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Chrome_WidgetWin_1c++ base64_百度搜索 - Google Chromechrome.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:OrpheusBrowserHostSky (Radio Edit) - Steerner/Martellcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ProgmanProgram Managerexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Chrome_WidgetWin_1c++ base64_百度搜索 - Google Chromechrome.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:OrpheusBrowserHostSky (Radio Edit) - Steerner/Martellcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ProgmanProgram Managerexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  TaskInfo created
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Chrome_WidgetWin_1c++ base64_百度搜索 - Google Chromechrome.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:OrpheusBrowserHostSky (Radio Edit) - Steerner/Martellcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:ProgmanProgram Managerexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Chrome_WidgetWin_1c++ base64_百度搜索 - Google Chromechrome.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Chrome_WidgetWin_1c++ base64_百度搜索 - Google Chromechrome.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:OrpheusBrowserHostSky (Radio Edit) - Steerner/Martellcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ProgmanProgram Managerexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Chrome_WidgetWin_1c++ basdds_百度搜索 - Google Chromechrome.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Chrome_WidgetWin_1c++ basdds_百度搜索 - Google Chromechrome.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:OrpheusBrowserHostSky (Radio Edit) - Steerner/Martellcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ProgmanProgram Managerexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  TaskInfo created
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:OrpheusBrowserHostSky (Radio Edit) - Steerner/Martellcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:ProgmanProgram Managerexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Chrome_WidgetWin_1安全导航_安全绿色上网从这里开始！ - Google Chromechrome.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Chrome_WidgetWin_1安全导航_安全绿色上网从这里开始！ - Google Chromechrome.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:OrpheusBrowserHostSky (Radio Edit) - Steerner/Martellcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ProgmanProgram Managerexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Notepaddata.txt - 记事本notepad.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  add new key info:Notepaddata.txt - 记事本notepad.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Chrome_WidgetWin_1安全导航_安全绿色上网从这里开始！ - Google Chromechrome.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:OrpheusBrowserHostSky (Radio Edit) - Steerner/Martellcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ProgmanProgram Managerexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Chrome_WidgetWin_1安全导航_安全绿色上网从这里开始！ - Google Chromechrome.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:OrpheusBrowserHostSky (Radio Edit) - Steerner/Martellcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ProgmanProgram Managerexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Chrome_WidgetWin_1安全导航_安全绿色上网从这里开始！ - Google Chromechrome.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:OrpheusBrowserHostSky (Radio Edit) - Steerner/Martellcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ProgmanProgram Managerexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:OrpheusBrowserHostSky (Radio Edit) - Steerner/Martellcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ProgmanProgram Managerexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:OrpheusBrowserHostSky (Radio Edit) - Steerner/Martellcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ProgmanProgram Managerexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe0
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:SynTrackCursorWindowClassSynTPEnh.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_TrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Shell_SecondaryTrayWndexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Notepaddata.txt - 记事本notepad.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:CabinetWClassLogLibexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ConsoleWindowClassD:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exeVsDebugConsole.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]LogLib - Microsoft Visual Studio devenv.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:OrpheusBrowserHostSky (Radio Edit) - Steerner/Martellcloudmusic.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdgeCP.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindowMicrosoft EdgeMicrosoftEdge.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowMicrosoft EdgeApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Windows.UI.Core.CoreWindow设置SystemSettings.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindow设置ApplicationFrameHost.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ApplicationFrameWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:DummyDWMListenerWindowexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:EdgeUiInputTopWndClassexplorer.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:Internet Explorer_HiddenScriptedSandbox64.exe1
+In file:d:\pc_git_library\web_project\localtest\loglib\loglib\log.cpp line:81 function:Mlog::write_log  update key info:ProgmanProgram Managerexplorer.exe1
