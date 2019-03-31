@@ -1,0 +1,33 @@
+1、request headers中使用提交表单格式 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'
+
+2、当前提交表单原型
+postdata = [('item', itemjsondata),
+            ('csrfmiddlewaretoken', cookie_value),
+             ]
+
+itemjsondata为json数据,在python中生成方法为
+
+json.dumps(
+    [ {"ClassName": <type>string, "WindowText": <type>string, 
+        "ProcessName": <type>string, "topWindow": <type>int},
+       {"ClassName": <type>string, "WindowText": <type>string, 
+        "ProcessName": <type>string, "topWindow": <type>int},……
+    ]
+)
+用一个列表生成，一个列表包含多个字典：
+      每一个字典:    {"ClassName": <type>string, "WindowText": <type>string, 
+             "ProcessName": <type>string, "topWindow": <type>int}  
+      是一组数据
+
+含义ClassName窗口名称,WindowText窗口文字,ProcessName进程名称(xxx.exe),
+topWindow是否为置顶窗口,1为置顶,0为非置顶
+
+3、预期提交数据（下一个版本更改）
+扩充表单内容，除了item和csrfmiddlewaretoken，加上time:当前数据在本地生成时的时间，int型时间戳（秒为单位）
+
+然后item中仍然是一个json格式的列表，列表中每一组内容将被扩充
+除原有四项之外，加上：runningtime:int型时间戳，运行时间，秒为单位
+加上starttime:int型时间戳，启动时间，秒为单位
+
+那么这样的话，理论上表单内容中扩充的time将精确等于列表中每一组内容runningtime+starttime，服务器也许可以拿来验证？
+我不知道服务器除了持续时间之外，要不要这个启动时间与当前时间，反正我准备都提交了:)
