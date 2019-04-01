@@ -10,14 +10,20 @@ function getList() {
 function updateList(items) {
     // Removes the old to-do list items
     $("li").remove();
-
+console.log("update");
     // Adds each new todo-list item to the list
     $(items).each(function() {
         $("#todo-list").append(
             "<li><button onclick='deleteItem("+this.pk+")'>X</button> " +
-                    sanitize(this.fields.text) +
+                    this.fields.process_name +
                     ' <span class="details">' +
-                    "(id=" + this.pk + ", ip_addr=" + this.fields.ip_addr + ")" +
+                    "(id=" + this.pk +
+                    ", username=" + this.fields.username +
+                    ", type=" + this.fields.type +
+                    ", ip_addr=" + this.fields.ip_addr +
+                    ", update_time=" + this.fields.update_time +
+                    ", create_time=" + this.fields.create_time +
+                    ")" +
                     "</span></li>"
         );
     });
@@ -49,6 +55,13 @@ function getCSRFToken() {
 function addItem() {
     var itemTextElement = $("#item");
     var itemTextValue   = itemTextElement.val();
+    var time = new Date();
+    var itemdata = {"process_name":itemTextValue,
+                    "update_time":time,
+                    "create_time":time,
+                    "type":"send by js",
+                    "username":"webpage"};
+
 
     // Clear input box and old error message (if any)
     itemTextElement.val('');
@@ -57,7 +70,7 @@ function addItem() {
     $.ajax({
         url: "/time_management/add-item",
         type: "POST",
-        data: "item="+itemTextValue+"&csrfmiddlewaretoken="+getCSRFToken(),
+        data: "item="+JSON.stringify(itemdata)+"&csrfmiddlewaretoken="+getCSRFToken(),
         dataType : "json",
         success: function(response) {
             if (Array.isArray(response)) {

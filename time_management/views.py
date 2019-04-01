@@ -1,13 +1,15 @@
 from django.shortcuts import render, get_object_or_404
 from django.core import serializers
 from django.http import HttpResponse, Http404
+from django.utils import timezone
+import json
 from django.views.decorators.csrf import ensure_csrf_cookie
 
 # Imports the Item class
 from time_management.models import *
 
 
-@ensure_csrf_cookie
+#@ensure_csrf_cookie
 def home(request):
     return render(request, 'time_management/action_record.html', {})
 
@@ -20,7 +22,15 @@ def add_item(request):
         json_error = '{ "error": "'+message+'" }'
         return HttpResponse(json_error, content_type='application/json')
 
-    new_item = Item(text=request.POST['item'], ip_addr=request.META['REMOTE_ADDR'])
+    jsondata = json.loads(request.POST['item'])
+    #print(type(jsondata['create_time']))
+
+    new_item = Item(process_name=jsondata['process_name'],
+                    ip_addr=request.META['REMOTE_ADDR'],
+                    update_time=jsondata['update_time'],
+                    create_time=jsondata['create_time'],
+                    type=jsondata['type'],
+                    username=jsondata['username'])
     new_item.save()
 
     response_text = serializers.serialize('json', Item.objects.all())
