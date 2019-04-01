@@ -1,0 +1,414 @@
+==============
+ClassName:ConsoleWindowClass
+WindowText:D:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exe
+ProcessName:VsDebugConsole.exe
+type:common
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:00 1970
+PresentTime:Sun Mar 31 05:40:11 2019
+ClassName:OrpheusBrowserHost
+WindowText:Sky (Radio Edit) - Steerner/Martell
+ProcessName:cloudmusic.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:00 1970
+PresentTime:Sun Mar 31 05:40:11 2019
+ClassName:CabinetWClass
+WindowText:LogLib
+ProcessName:explorer.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:00 1970
+PresentTime:Sun Mar 31 05:40:11 2019
+ClassName:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]
+WindowText:LogLib - Microsoft Visual Studio 
+ProcessName:devenv.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:00 1970
+PresentTime:Sun Mar 31 05:40:11 2019
+ClassName:ConsoleWindowClass
+WindowText:D:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exe
+ProcessName:VsDebugConsole.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:00 1970
+PresentTime:Sun Mar 31 05:40:11 2019
+ClassName:Internet Explorer_Hidden
+WindowText:
+ProcessName:ScriptedSandbox64.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:00 1970
+PresentTime:Sun Mar 31 05:40:11 2019
+==============
+ClassName:OrpheusBrowserHost
+WindowText:Sky (Radio Edit) - Steerner/Martell
+ProcessName:cloudmusic.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:05 1970
+PresentTime:Sun Mar 31 05:40:16 2019
+ClassName:CabinetWClass
+WindowText:LogLib
+ProcessName:explorer.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:05 1970
+PresentTime:Sun Mar 31 05:40:16 2019
+ClassName:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]
+WindowText:LogLib - Microsoft Visual Studio 
+ProcessName:devenv.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:05 1970
+PresentTime:Sun Mar 31 05:40:16 2019
+ClassName:ConsoleWindowClass
+WindowText:D:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exe
+ProcessName:VsDebugConsole.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:05 1970
+PresentTime:Sun Mar 31 05:40:16 2019
+ClassName:Chrome_WidgetWin_1
+WindowText:安全导航_安全绿色上网从这里开始！ - Google Chrome
+ProcessName:chrome.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:16 2019
+RunningTime:Thu Jan  1 00:00:00 1970
+PresentTime:Sun Mar 31 05:40:16 2019
+ClassName:Internet Explorer_Hidden
+WindowText:
+ProcessName:ScriptedSandbox64.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:05 1970
+PresentTime:Sun Mar 31 05:40:16 2019
+ClassName:Chrome_WidgetWin_1
+WindowText:安全导航_安全绿色上网从这里开始！ - Google Chrome
+ProcessName:chrome.exe
+type:common
+StartTime:Sun Mar 31 05:40:16 2019
+RunningTime:Thu Jan  1 00:00:00 1970
+PresentTime:Sun Mar 31 05:40:16 2019
+==============
+ClassName:OrpheusBrowserHost
+WindowText:Sky (Radio Edit) - Steerner/Martell
+ProcessName:cloudmusic.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:11 1970
+PresentTime:Sun Mar 31 05:40:22 2019
+ClassName:CabinetWClass
+WindowText:LogLib
+ProcessName:explorer.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:10 1970
+PresentTime:Sun Mar 31 05:40:21 2019
+ClassName:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]
+WindowText:LogLib - Microsoft Visual Studio 
+ProcessName:devenv.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:11 1970
+PresentTime:Sun Mar 31 05:40:22 2019
+ClassName:Notepad
+WindowText:data.txt - 记事本
+ProcessName:notepad.exe
+type:common
+StartTime:Sun Mar 31 05:40:21 2019
+RunningTime:Thu Jan  1 00:00:00 1970
+PresentTime:Sun Mar 31 05:40:21 2019
+ClassName:ConsoleWindowClass
+WindowText:D:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exe
+ProcessName:VsDebugConsole.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:11 1970
+PresentTime:Sun Mar 31 05:40:22 2019
+ClassName:Chrome_WidgetWin_1
+WindowText:安全导航_安全绿色上网从这里开始！ - Google Chrome
+ProcessName:chrome.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:16 2019
+RunningTime:Thu Jan  1 00:00:06 1970
+PresentTime:Sun Mar 31 05:40:22 2019
+ClassName:Internet Explorer_Hidden
+WindowText:
+ProcessName:ScriptedSandbox64.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:11 1970
+PresentTime:Sun Mar 31 05:40:22 2019
+ClassName:Notepad
+WindowText:data.txt - 记事本
+ProcessName:notepad.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:21 2019
+RunningTime:Thu Jan  1 00:00:00 1970
+PresentTime:Sun Mar 31 05:40:21 2019
+==============
+ClassName:OrpheusBrowserHost
+WindowText:Sky (Radio Edit) - Steerner/Martell
+ProcessName:cloudmusic.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:16 1970
+PresentTime:Sun Mar 31 05:40:27 2019
+ClassName:CabinetWClass
+WindowText:LogLib
+ProcessName:explorer.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:16 1970
+PresentTime:Sun Mar 31 05:40:27 2019
+ClassName:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]
+WindowText:LogLib - Microsoft Visual Studio 
+ProcessName:devenv.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:16 1970
+PresentTime:Sun Mar 31 05:40:27 2019
+ClassName:Notepad
+WindowText:data.txt - 记事本
+ProcessName:notepad.exe
+type:common
+StartTime:Sun Mar 31 05:40:21 2019
+RunningTime:Thu Jan  1 00:00:06 1970
+PresentTime:Sun Mar 31 05:40:27 2019
+ClassName:ConsoleWindowClass
+WindowText:D:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exe
+ProcessName:VsDebugConsole.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:16 1970
+PresentTime:Sun Mar 31 05:40:27 2019
+ClassName:Chrome_WidgetWin_1
+WindowText:安全导航_安全绿色上网从这里开始！ - Google Chrome
+ProcessName:chrome.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:16 2019
+RunningTime:Thu Jan  1 00:00:11 1970
+PresentTime:Sun Mar 31 05:40:27 2019
+ClassName:Internet Explorer_Hidden
+WindowText:
+ProcessName:ScriptedSandbox64.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:16 1970
+PresentTime:Sun Mar 31 05:40:27 2019
+ClassName:Notepad
+WindowText:data.txt - 记事本
+ProcessName:notepad.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:21 2019
+RunningTime:Thu Jan  1 00:00:06 1970
+PresentTime:Sun Mar 31 05:40:27 2019
+==============
+ClassName:OrpheusBrowserHost
+WindowText:Sky (Radio Edit) - Steerner/Martell
+ProcessName:cloudmusic.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:21 1970
+PresentTime:Sun Mar 31 05:40:32 2019
+ClassName:CabinetWClass
+WindowText:LogLib
+ProcessName:explorer.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:21 1970
+PresentTime:Sun Mar 31 05:40:32 2019
+ClassName:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]
+WindowText:LogLib - Microsoft Visual Studio 
+ProcessName:devenv.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:21 1970
+PresentTime:Sun Mar 31 05:40:32 2019
+ClassName:Notepad
+WindowText:data.txt - 记事本
+ProcessName:notepad.exe
+type:common
+StartTime:Sun Mar 31 05:40:21 2019
+RunningTime:Thu Jan  1 00:00:11 1970
+PresentTime:Sun Mar 31 05:40:32 2019
+ClassName:ConsoleWindowClass
+WindowText:D:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exe
+ProcessName:VsDebugConsole.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:21 1970
+PresentTime:Sun Mar 31 05:40:32 2019
+ClassName:Chrome_WidgetWin_1
+WindowText:安全导航_安全绿色上网从这里开始！ - Google Chrome
+ProcessName:chrome.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:16 2019
+RunningTime:Thu Jan  1 00:00:16 1970
+PresentTime:Sun Mar 31 05:40:32 2019
+ClassName:Internet Explorer_Hidden
+WindowText:
+ProcessName:ScriptedSandbox64.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:21 1970
+PresentTime:Sun Mar 31 05:40:32 2019
+ClassName:Notepad
+WindowText:data.txt - 记事本
+ProcessName:notepad.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:21 2019
+RunningTime:Thu Jan  1 00:00:11 1970
+PresentTime:Sun Mar 31 05:40:32 2019
+==============
+ClassName:OrpheusBrowserHost
+WindowText:Sky (Radio Edit) - Steerner/Martell
+ProcessName:cloudmusic.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:27 1970
+PresentTime:Sun Mar 31 05:40:38 2019
+ClassName:CabinetWClass
+WindowText:LogLib
+ProcessName:explorer.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:27 1970
+PresentTime:Sun Mar 31 05:40:38 2019
+ClassName:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]
+WindowText:LogLib - Microsoft Visual Studio 
+ProcessName:devenv.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:27 1970
+PresentTime:Sun Mar 31 05:40:38 2019
+ClassName:Notepad
+WindowText:data.txt - 记事本
+ProcessName:notepad.exe
+type:common
+StartTime:Sun Mar 31 05:40:21 2019
+RunningTime:Thu Jan  1 00:00:17 1970
+PresentTime:Sun Mar 31 05:40:38 2019
+ClassName:ConsoleWindowClass
+WindowText:D:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exe
+ProcessName:VsDebugConsole.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:27 1970
+PresentTime:Sun Mar 31 05:40:38 2019
+ClassName:Internet Explorer_Hidden
+WindowText:
+ProcessName:ScriptedSandbox64.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:27 1970
+PresentTime:Sun Mar 31 05:40:38 2019
+ClassName:Notepad
+WindowText:data.txt - 记事本
+ProcessName:notepad.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:21 2019
+RunningTime:Thu Jan  1 00:00:17 1970
+PresentTime:Sun Mar 31 05:40:38 2019
+==============
+ClassName:OrpheusBrowserHost
+WindowText:Sky (Radio Edit) - Steerner/Martell
+ProcessName:cloudmusic.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:32 1970
+PresentTime:Sun Mar 31 05:40:43 2019
+ClassName:CabinetWClass
+WindowText:LogLib
+ProcessName:explorer.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:32 1970
+PresentTime:Sun Mar 31 05:40:43 2019
+ClassName:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]
+WindowText:LogLib - Microsoft Visual Studio 
+ProcessName:devenv.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:32 1970
+PresentTime:Sun Mar 31 05:40:43 2019
+ClassName:Notepad
+WindowText:data.txt - 记事本
+ProcessName:notepad.exe
+type:common
+StartTime:Sun Mar 31 05:40:21 2019
+RunningTime:Thu Jan  1 00:00:22 1970
+PresentTime:Sun Mar 31 05:40:43 2019
+ClassName:ConsoleWindowClass
+WindowText:D:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exe
+ProcessName:VsDebugConsole.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:32 1970
+PresentTime:Sun Mar 31 05:40:43 2019
+ClassName:Internet Explorer_Hidden
+WindowText:
+ProcessName:ScriptedSandbox64.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:32 1970
+PresentTime:Sun Mar 31 05:40:43 2019
+ClassName:Notepad
+WindowText:data.txt - 记事本
+ProcessName:notepad.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:21 2019
+RunningTime:Thu Jan  1 00:00:22 1970
+PresentTime:Sun Mar 31 05:40:43 2019
+==============
+ClassName:OrpheusBrowserHost
+WindowText:Sky (Radio Edit) - Steerner/Martell
+ProcessName:cloudmusic.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:37 1970
+PresentTime:Sun Mar 31 05:40:48 2019
+ClassName:CabinetWClass
+WindowText:LogLib
+ProcessName:explorer.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:37 1970
+PresentTime:Sun Mar 31 05:40:48 2019
+ClassName:HwndWrapper[DefaultDomain;;25eb92b1-2613-4acd-9f20-00b5ad9b7cc3]
+WindowText:LogLib - Microsoft Visual Studio 
+ProcessName:devenv.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:37 1970
+PresentTime:Sun Mar 31 05:40:48 2019
+ClassName:Notepad
+WindowText:data.txt - 记事本
+ProcessName:notepad.exe
+type:common
+StartTime:Sun Mar 31 05:40:21 2019
+RunningTime:Thu Jan  1 00:00:27 1970
+PresentTime:Sun Mar 31 05:40:48 2019
+ClassName:ConsoleWindowClass
+WindowText:D:\PC_git_library\web_project\localtest\LogLib\x64\Debug\LogLib.exe
+ProcessName:VsDebugConsole.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:37 1970
+PresentTime:Sun Mar 31 05:40:48 2019
+ClassName:Internet Explorer_Hidden
+WindowText:
+ProcessName:ScriptedSandbox64.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:11 2019
+RunningTime:Thu Jan  1 00:00:37 1970
+PresentTime:Sun Mar 31 05:40:48 2019
+ClassName:Notepad
+WindowText:data.txt - 记事本
+ProcessName:notepad.exe
+type:topWindow
+StartTime:Sun Mar 31 05:40:21 2019
+RunningTime:Thu Jan  1 00:00:27 1970
+PresentTime:Sun Mar 31 05:40:48 2019
